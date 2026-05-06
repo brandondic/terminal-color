@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/2197natashacruz-droid/terminal-color.git"
+    "url": "git+https://github.com/Kevin-Lizama/terminal-color.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/2197natashacruz-droid/terminal-color/issues"
+    "url": "https://github.com/Kevin-Lizama/terminal-color/issues"
   },
-  "homepage": "https://github.com/2197natashacruz-droid/terminal-color#readme",
+  "homepage": "https://github.com/Kevin-Lizama/terminal-color#readme",
   "dependencies": {
     "chalk": "^5.6.2"
   }
